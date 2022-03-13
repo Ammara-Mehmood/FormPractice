@@ -1,0 +1,153 @@
+.job-cata11{
+    /* width: 100%; */
+    margin-top: 400px;
+    flex: 1 1 25%;
+    margin-left: 300px;
+    margin-right: 500px;
+    }
+    .rec-card11{
+        padding: 10px;
+        background-color: whitesmoke;
+        border-radius: 5px;
+        flex: 1 1 50%;
+        margin-top: 10px;
+    }
+    .first-row11{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+        flex-wrap: wrap;
+    }
+    .rec-card11{
+        padding: 10px;
+        background-color: whitesmoke;
+        border-radius: 5px;
+        flex: 1 1 50%;
+        margin-top: 10px;
+        flex-wrap: wrap;
+    }
+    .blue-text11{
+        text-decoration: none;
+        font-weight: 600;
+        color: #0b648d;
+    }
+    .danger-btn11{
+        background-color: rgb(235, 161, 1);
+        padding: 5px 15px;
+        border-radius: 15px;
+        border: none;
+        margin-right: 10px;
+    }
+    .success-btn11{
+        color: white;
+        background-color: green;
+        padding: 5px 40px;
+        border-radius: 15px;
+        border: none;
+    }
+    .location-post{
+        float: right;
+        display: flex;
+        margin-top: -66px;
+        gap: 50px
+    }
+    .job-title{
+    
+        background-color: whitesmoke;
+        border-radius: 3px;
+        font: 50;
+        margin-top: -221px;
+    }
+    .Displaying{
+        display: flex;
+        gap: 45px;
+      
+    }
+    .save-the-search{
+        float: right;
+    
+    }
+    .secondinput{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-top: -316px;
+    }
+    .secondinputpart2{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 20px;
+        flex-wrap: wrap;
+    }
+    .Searching-btn{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 20px;
+        flex-wrap: wrap;
+    }
+    .newclass{
+        padding: 10px;
+        padding-left: 200px;
+        padding-right: 100px;
+    }
+    .searchbtn{
+        background-color: goldenrod;
+        padding: 20px;
+        padding-left: 99px;
+        padding-right: 145px;
+        color:black;
+        font-size: 20;
+        
+    }
+    .searchbtn1{
+        color: goldenrod;
+        padding: 15px;
+        padding-left: 30px;
+        padding-right: 30px;
+        border: 1px solid goldenrod;
+        background-color: black;
+        border-radius: 5px;
+    }
+    .app-content{
+        text-align: center;
+        border: 2px solid black;
+       margin: 84px 550px 60px 550px;
+       padding: 10px;
+       background-color:lightslategray;
+       border-radius: 7px;
+      }
+      .paginationBttns {
+        width: 95%;
+        height: 40px;
+        list-style: none;
+        justify-content: center;
+         display: flex; 
+         margin-top: 54px;
+      }
+      .paginationBttns a {
+        padding: 10px;
+        margin: 8px;
+        border-radius: 5px;
+        border: 1px solid #0b648d;
+        color: #0b648d;
+        cursor: pointer;
+      }
+      
+      .paginationBttns a:hover {
+        color: white;
+        background-color: #0b648d;
+      }
+      
+      .paginationActive a {
+        color: white;
+        background-color: #0b648d;
+      }
+      
+      .paginationDisabled a {
+        color:#0b648d ;
+        background-color: white;
+      }
